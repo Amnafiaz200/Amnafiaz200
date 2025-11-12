@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AMNA</h1>
-<h3 align="center">A passionate Backend developer and Machine Learning Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software developer and Machine Learning Engineer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Integrating Machine Learning models into web app**
 
