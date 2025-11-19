@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm AMNA</h1>
-<h3 align="center">A passionate Software developer and Machine Learning Engineer from Pakistan</h3>
+<h3 align="center">A passionate Python Software developer and Machine Learning Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Integrating Machine Learning models into web app**
+- 🔭 I’m currently working on **Integrating Machine Learning models into web app using Python**
 
-- 🌱 I’m currently learning **React.js, Node.js, TypeScript and Machine Learning**
+- 🌱 I’m currently learning **React.js,Node.js, TypeScript and Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amnafiaz200](https://github.com/Amnafiaz200)
 
