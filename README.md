@@ -3,14 +3,17 @@
 
 - I’m currently working on **Integrating Machine Learning models into a Software app using Python**
 
-## Skills 
-|---------|--------|
-| **Programming Languages** | Python, JavaScript, SQL |
-| **Technical Skills** | OOP, Data Structures & Algorithms, Database Design & Management |
-| **Backend & Frontend** | FastAPI, Node.js, Express.js, HTML/CSS |
-| **APIs & Version Control** | RESTful APIs, API Integration, Git, GitHub, Docker, CI/CD Pipelines |
-| **Artificial Intelligence** | Scikit-Learn, HuggingFace, LangChain, RAG (Retrieval-Augmented Generation) |
-| **Soft Skills** | Problem-Solving, Analytical Thinking, Collaboration, Clear Communication |
+## Skills Overview
+
+| **Category** | **Skills** |
+|--------------|------------|
+| Programming Languages | Python • JavaScript • SQL |
+| Technical Skills | OOP • Data Structures & Algorithms • Database Design & Management |
+| Backend & Frontend | FastAPI • Node.js • Express.js • HTML • CSS |
+| APIs & Version Control | REST APIs • API Integration • Git • GitHub • Docker • CI/CD Pipelines |
+| Artificial Intelligence | Scikit-Learn • HuggingFace • LangChain • RAG |
+| Soft Skills | Problem-Solving • Analytical Thinking • Collaboration • Clear Communication |
+
 
 - All of my projects are available at [https://github.com/Amnafiaz200](https://github.com/Amnafiaz200)
   
