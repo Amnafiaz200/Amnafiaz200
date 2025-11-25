@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm AMNA</h1>
-<h3 align="center">A passionate Python Software developer and Machine Learning Engineer from Pakistan</h3>
+<h3 align="center">A passionate Software Engineer and ML Integrator from Pakistan</h3>
 
-- I’m currently working on **Integrating Machine Learning models into web app using Python**
+- I’m currently working on **Integrating Machine Learning models into a Software app using Python**
 
-- I’m currently learning **React.js,Node.js, TypeScript and Deep Learning**
+## Skills 
+|---------|--------|
+| **Programming Languages** | Python, JavaScript, SQL |
+| **Technical Skills** | OOP, Data Structures & Algorithms, Database Design & Management |
+| **Backend & Frontend** | FastAPI, Node.js, Express.js, HTML/CSS |
+| **APIs & Version Control** | RESTful APIs, API Integration, Git, GitHub, Docker, CI/CD Pipelines |
+| **Artificial Intelligence** | Scikit-Learn, HuggingFace, LangChain, RAG (Retrieval-Augmented Generation) |
+| **Soft Skills** | Problem-Solving, Analytical Thinking, Collaboration, Clear Communication |
 
 - All of my projects are available at [https://github.com/Amnafiaz200](https://github.com/Amnafiaz200)
   
 - My website: https://amnafiaz200.github.io/
 
 - How to reach me **30042002@gmail.com**
-
-- Fun fact **I love turning ideas into interactive web experiences!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+- 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Frontend -->
