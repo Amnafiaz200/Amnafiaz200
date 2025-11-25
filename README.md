@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm AMNA</h1>
+<h1 align="center">Hi, I'm AMNA</h1>
 <h3 align="center">A passionate Software Engineer and ML Integrator from Pakistan</h3>
 
 - I’m currently working on **Integrating Machine Learning models into a Software app using Python**
 
-## Skills Overview
+## Skills 
 
 | **Category** | **Skills** |
 |--------------|------------|
@@ -20,7 +20,7 @@
 - My website: https://amnafiaz200.github.io/
 
 - How to reach me **30042002@gmail.com**
-- 
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Frontend -->
