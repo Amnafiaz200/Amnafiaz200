@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm AMNA</h1>
 <h3 align="center">A passionate Python Software developer and Machine Learning Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Integrating Machine Learning models into web app using Python**
+- I’m currently working on **Integrating Machine Learning models into web app using Python**
 
-- 🌱 I’m currently learning **React.js,Node.js, TypeScript and Deep Learning**
+- I’m currently learning **React.js,Node.js, TypeScript and Deep Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amnafiaz200](https://github.com/Amnafiaz200)
+- All of my projects are available at [https://github.com/Amnafiaz200](https://github.com/Amnafiaz200)
+  
+- My website: https://amnafiaz200.github.io/
 
-- 📫 How to reach me **30042002@gmail.com**
+- How to reach me **30042002@gmail.com**
 
-- ⚡ Fun fact **I love turning ideas into interactive web experiences!**
+- Fun fact **I love turning ideas into interactive web experiences!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
