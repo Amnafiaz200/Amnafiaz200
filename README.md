@@ -305,31 +305,6 @@ Cloud: Google Cloud
 Data: Google Sheets API, JSON, CSV
 ```
 
-🚧 **Status:** Coming Soon
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amnafiaz200&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amnafiaz200&theme=chartreuse-dark&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amnafiaz200&layout=compact&theme=chartreuse-dark&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amnafiaz200&theme=matrix&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🌐 Let's Connect & Collaborate
 
 ### 💼 Professional Network
@@ -361,22 +336,6 @@ Data: Google Sheets API, JSON, CSV
 | 📊 Data Engineering | BigQuery, Cloud Composer, SQL, FastAPI | ETL pipelines, data validation, reporting systems |
 | 🧠 Model Optimization | Knowledge Distillation, ResNet, CIFAR-100 | Lightweight models, efficient AI deployment |
 | ☁️ Cloud AI Systems | GCP, AWS EC2, Docker, Linux | API deployment, automation services, scalable systems |
-
----
-
-## 📊 Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amnafiaz200&label=Profile%20Views&color=39ff14&style=for-the-badge" />
-</p>
-
----
-
-## ⚡ One-Liner
-
-<p align="center">
-  <em>Building intelligent, reliable, and practical AI systems that turn data into real-world automation.</em>
-</p>
 
 ---
 
