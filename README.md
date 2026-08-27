@@ -143,13 +143,6 @@
 ## 🎓 Education
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3>MS Artificial Intelligence</h3>
-      <p><strong>LUMS</strong></p>
-      <p>Jul 2025 – Present</p>
-      <p>AI Foundations, MLOps, Deep Learning, Robotics.</p>
-    </td>
     <td width="50%">
       <h3>BSc Computer Engineering</h3>
       <p><strong>UET Lahore</strong></p>
